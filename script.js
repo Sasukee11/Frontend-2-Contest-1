@@ -54,8 +54,3 @@ function concatenateArray() {
   const concatenatedArray = arr.concat(additionalEmployees);
   console.log(concatenatedArray);
 }
-PrintDeveloperbyMap();
-PrintDeveloperbyForEach();
-addData();
-removeAdmin();
-concatenateArray();
